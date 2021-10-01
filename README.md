@@ -4,4 +4,5 @@
 
 #### <img src="https://cdn.discordapp.com/emojis/884537132268531742.png?v=1" width="20px"> Unirse: [Clic aquí](https://discord.gg/9YUjDNvyZn)
 <br>
-<h1>Creado por: Woks#6231 - Versión 1.3</h1>
+<h2>Creado por: Woks#6231 - Versión 1.3</h3>
+<h3>Esta plantilla es para [Replit](https://replit.com/repls)</h3>
